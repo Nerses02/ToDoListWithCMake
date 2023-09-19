@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ToDoList">
+        <file>delete.png</file>
+        <file>ToDoList.png</file>
+    </qresource>
+</RCC>
